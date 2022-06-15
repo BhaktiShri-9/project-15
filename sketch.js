@@ -36,11 +36,7 @@ function setup() {
   
    score = 0  
 
-   //creating groups to each
  redB= new Group();
- blueB= new Group();
- greenB= new Group();
- pinkB= new Group();
 arrowGroup= new Group();
 
   
